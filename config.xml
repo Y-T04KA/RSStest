@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<feeds>
+		<feed>https://habr.com/ru/rss/interesting/</feed>
+		
+	</feeds>
+	<updaterate>15000</updaterate>
+	<useproxy>0</useproxy>
+	<proxyadress>127.0.0.1:9050</proxyadress>
+	<proxylogin></proxylogin>
+	<proxypass></proxypass>
+</configuration>
